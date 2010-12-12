@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3362
+
+Plugin created just for remove extra whitespaces at end of each line.
+
+https://github.com/kossnocorp/janitor.vim
